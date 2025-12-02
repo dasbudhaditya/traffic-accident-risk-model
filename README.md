@@ -99,30 +99,6 @@ From the comparison table:
 
 ---
 
-## 📁 Suggested Folder Structure
-
-```bash
-traffic-accident-risk-model/
-├── README.md
-├── notebooks/
-│   ├── 01_load_and_inspect_data.ipynb
-│   ├── 02_smote_and_baseline.ipynb
-│   ├── 03_model_tuning_random_forest.ipynb
-│   ├── 04_model_tuning_logistic_dt.ipynb
-│   └── 05_evaluation_and_plots.ipynb
-├── data/
-│   ├── Xtrain.xlsx
-│   ├── Xtest.xlsx
-│   ├── ytrain.xlsx
-│   └── ytest.xlsx
-└── outputs/
-    ├── confusion_matrix_rf.png
-    ├── model_comparison_barplot.png
-    └── other_figures/
-```
-
----
-
 ## 📬 Contact
 
 Questions about the project or dataset?  
